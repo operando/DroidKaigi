@@ -1,5 +1,9 @@
 # DroidKaigiの資料もろもろ
 
+# スライド
+
+**[Android学ぶを君へ。生き抜くためのナレッジ共有](http://www.slideshare.net/shinobuokano7/android-47395733)**
+
 # First Step
 
 ### Genymotion
