@@ -39,4 +39,44 @@
 [TwitterClient](https://github.com/operando/TwitterClient)
 
 
+# Developer
 
+### 判断材料を貯めこむ
+
+[Google Play Service](https://developer.android.com/google/play-services/index.html)
+
+
+# Framework
+
+### Frameworkのコードを読む
+
+[Androidソースコード 検索サービス](https://sites.google.com/site/devcollaboration/codesearch)
+
+[AndroidXRef](http://androidxref.com/)
+
+[Frefox + ツリー型タブ](https://addons.mozilla.org/ja/firefox/addon/tree-style-tab/)
+
+
+### 勉強会やりたい！！
+
+[まったり Android Framework Code Reading](https://mandroidfcr.doorkeeper.jp/events)
+
+### コメンド大事！
+
+[Android-Command-Note](https://github.com/operando/Android-Command-Note)
+
+### コマンドをもっと快適に
+
+[複数のAndroid端末を同時につないで困ってませんか？ それadb-pecoで選択できるよ！](http://techlife.cookpad.com/entry/2014/09/09/172449)
+
+
+# Mercari
+
+### 常にアプリを疑う
+
+[MaterialTabHost](https://github.com/yanzm/MaterialTabHost)
+
+
+### deploygate
+
+[deploygate](https://deploygate.com/)
