@@ -1,13 +1,12 @@
-## DroidKaigiの資料もろもろ
-
+# DroidKaigiの資料もろもろ
 
 # First Step
 
-## Genymotion
+### Genymotion
 
 [Genymotion](https://www.genymotion.com)
 
-## OSSの力を借りる
+### OSSの力を借りる
 
 [iosched](https://github.com/google/iosched)
 
@@ -19,11 +18,11 @@
 
 [wordpress-mobile](https://github.com/wordpress-mobile)
 
-## Androidの書籍
+### Androidの書籍
 
 [Android学ぶ上での書籍について - DroidKaigiの登壇者として、発表までの過程をつらつら書いていこうと思う #droidkaigi](http://hack-it-iron.hatenablog.com/entry/2015/03/22/195939)
 
-## ドキュメントが充実している
+### ドキュメントが充実している
 
 [Android Training](http://developer.android.com/training/index.html)
 
@@ -31,11 +30,11 @@
 
 [AndroidTraining (mixi)](http://mixi-inc.github.io/AndroidTraining/)
 
-## ナレッジが共有されてる
+### ナレッジが共有されてる
 
 [Qiita tags Android](http://qiita.com/tags/android)
 
-## とりあえずアプリを作る
+### とりあえずアプリを作る
 
 [TwitterClient](https://github.com/operando/TwitterClient)
 
