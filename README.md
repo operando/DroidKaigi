@@ -8,6 +8,12 @@
 
 [シンプルなKeynoteのテーマ作った by ku-mu*](http://cocodrips.hateblo.jp/entry/2014/12/08/151222)
 
+# About
+
+[メルカリ](http://mercari.jp/)
+
+[I'm knowledge worker by My はてなブログ](http://hack-it-iron.hatenablog.com/)
+
 
 # First Step
 
