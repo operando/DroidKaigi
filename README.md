@@ -4,6 +4,11 @@
 
 **[Android学ぶを君へ。生き抜くためのナレッジ共有](http://www.slideshare.net/shinobuokano7/android-47395733)**
 
+### Keynote Template
+
+[シンプルなKeynoteのテーマ作った by ku-mu*](http://cocodrips.hateblo.jp/entry/2014/12/08/151222)
+
+
 # First Step
 
 ### Genymotion
