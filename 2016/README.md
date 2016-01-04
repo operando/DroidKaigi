@@ -74,7 +74,6 @@ WebコンテンツとAndroidアプリの両方を作っている場合、Chrome 
 * アプリ内でWebViewを使っている人 or 使いたいと思ってる人
 
 ※1 参考:http://insidesearch.blogspot.ca/2015/11/new-ways-to-find-and-stream-app-content.html
-スクリーン リーダーのサポートを有効にするには、ショートカット ⌘+option+Z. を押します。キーボード ショートカットの詳細については、ショートカット ⌘スラッシュ. を押します。
 ```
 
 ### Topic
