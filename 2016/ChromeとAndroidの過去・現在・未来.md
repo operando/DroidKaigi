@@ -1,5 +1,15 @@
 
 
+## Chrome??
+
+* Web Browser developed by Google
+* Blink Rendering Engine
+* V8 JavaScript Engine
+
+## Chromium??
+
+* open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web
+
 ## Chrome for Android
 
 * Chrome (Stable)
@@ -33,7 +43,7 @@
  * http://googlechromereleases.blogspot.jp/search/label/Chrome%20Beta%20for%20Android
 
 * Dev Info(Update stop)
- * http://googlechromereleases.blogspot.jp/search/label/Chrome%20Dev%20for%20Android 
+ * http://googlechromereleases.blogspot.jp/search/label/Chrome%20Dev%20for%20Android
 
 
 ## WebView History
@@ -51,7 +61,7 @@
   * このバージョンごとのChrome Update作業は、Lの途中までは行われていたっぽい。L PreviewならChrome M37だった
 * Android 5.x 〜
  * Android System WebView
- * In Android 5.0 (Lollipop), the WebView has moved to an APK so it can be updated seperately to the Android platform. 
+ * In Android 5.0 (Lollipop), the WebView has moved to an APK so it can be updated seperately to the Android platform.
  * https://play.google.com/store/apps/details?id=com.google.android.webview
 
 ## WebView
@@ -62,6 +72,27 @@
 ## What is "Android Browser"
 
 * 忘れてくれ...
+
+
+## Remote Debugging
+
+* Remote debugging on Android with Chrome DevTools
+* Remote debugging on WebViews in your native Android apps with Chrome Developer Tools
+
+
+
+* On Android 4.4 (KitKat) or later, you can use DevTools to debug WebView content in native Android applications.
+
+
+* chrome://inspect/#devices
+
+
+```java
+if (BuildConfig.DEBUG && Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
+    WebView.setWebContentsDebuggingEnabled(true);
+}
+```
+
 
 ### 概要
 
