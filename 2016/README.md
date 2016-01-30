@@ -31,7 +31,6 @@ Android SutdioやPluginだけでは物足りない！という方向けに、よ
 * This session is not about ADT (Android Developer Tools)
 
 ※1 参考 https://github.com/operando/Android-Command-Note
-スクリーン リーダーのサポートを有効にするには、ショートカット ⌘+option+Z. を押します。キーボード ショートカットの詳細については、ショートカット ⌘スラッシュ. を押します。
 ```
 
 ### Topic
