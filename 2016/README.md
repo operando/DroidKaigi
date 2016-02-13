@@ -2,6 +2,11 @@
 
 ## Android Dev Tools Knowledge
 
+https://droidkaigi.github.io/2016/timetable.html#session-2016-02-18-14-00-14-50-b
+
+* 2016/02/18 14:00-14:50
+* ROOM:B
+
 ### 概要
 
 ```
@@ -43,6 +48,11 @@ Android SutdioやPluginだけでは物足りない！という方向けに、よ
 
 
 ## ChromeとAndroidの過去・現在・未来
+
+https://droidkaigi.github.io/2016/timetable.html#session-2016-02-19-16-30-17-00-d
+
+* 2016/02/19 16:30-17:00
+* ROOM:D
 
 ### 概要
 
