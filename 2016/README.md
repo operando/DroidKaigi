@@ -7,6 +7,12 @@ https://droidkaigi.github.io/2016/timetable.html#session-2016-02-18-14-00-14-50-
 * 2016/02/18 14:00-14:50
 * ROOM:B
 
+## 資料
+
+* [SlideShare](http://www.slideshare.net/shinobuokano7/android-dev-tools-knowledge)
+* [Github](https://github.com/operando/DroidKaigi/tree/master/2016/android_dev_tools_knowledge)
+* [GradlePluginsSample Project](https://github.com/operando/GradlePluginsSample)
+
 ### 概要
 
 ```

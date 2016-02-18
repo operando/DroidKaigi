@@ -152,6 +152,7 @@
 
 # Gradle plugin
 
+* [GradlePluginsSample Project](https://github.com/operando/GradlePluginsSample)
 
 ##  dexcount-gradle-plugin
 
