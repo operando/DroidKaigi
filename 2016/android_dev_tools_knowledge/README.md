@@ -1,6 +1,11 @@
 
 # Android Dev Tools Knowledge
 
+# 資料
+
+* [SlideShare](http://www.slideshare.net/shinobuokano7/android-dev-tools-knowledge)
+* [GradlePluginsSample Project](https://github.com/operando/GradlePluginsSample)
+
 # shinobu.apk
 
 + [shinobu.apk #1 のパネルディスカッション録音データとShow Notesを公開しました！](http://hack-it-iron.hatenablog.com/entry/2016/02/08/142322)
