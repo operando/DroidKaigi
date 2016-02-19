@@ -8,5 +8,6 @@
 
 * issue
  * https://github.com/operando/DroidKaigi/issues
+* 「セッション名」と「質問だよー的な」Label作ったのでそれ付けてもらえると更にうれしい
 * もちろん日本語でOK
  * 英語だと逆に...
