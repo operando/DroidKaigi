@@ -5,6 +5,7 @@
 
 * [SlideShare](http://www.slideshare.net/shinobuokano7/android-dev-tools-knowledge)
 * [GradlePluginsSample Project](https://github.com/operando/GradlePluginsSample)
+ * セッション中に紹介したGradle Pluginを全部含んだサンプルプロジェクト
 
 # shinobu.apk
 
