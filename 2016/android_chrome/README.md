@@ -1,9 +1,11 @@
 
-#  ChromeとAndroidの 過去・現在・未来 Droidkaigi 2016
+#  ChromeとAndroidの 過去・現在・未来
 
 # 資料
 
 * [SlideShare](http://www.slideshare.net/shinobuokano7/chromeandroid-58461091)
+* [Native app install banner sample page](https://github.com/operando/NativeAppInstallBannerSample)
+* [Chrome custom tabs starterkit ](https://github.com/operando/chrome-custom-tabs-starterkit)
 
 
 #  This is the last session of DroidKaigi
@@ -264,6 +266,9 @@ webView.setWebContentsDebuggingEnabled(true);
 
 * similar to Web app install banners, but instead of adding to the home screen will let the user install your native app without leaving your site
 * https://developers.google.com/web/fundamentals/engage-and-retain/app-install-banners/native-app-install
+
+<img src="./images/hammerheadMMB29Qshinobu02202016174259.gif" height="400" />
+
 
 ## Criteria to Show the Banner
 

@@ -88,15 +88,17 @@ ffce40
 
 45873f
 
+https://www.youtube.com/watch?v=0tH-KHvifMk
+
 
 ## WebView History
 
 * Android 1.x 〜 Android 4.3.x
  * Based on the WebKit
  * Google I/O 2012 - Android WebView
-  * https://android.googlesource.com/platform/external/chromium_org/+/kitkat-mr2-release/chrome/VERSION
+  * https://www.youtube.com/watch?v=HbOtn5VhGZU
 * Android 4.4.x
- * Chromemise Based WebView
+ * Chromium Based WebView
  * KK MR1 Chrome M30
   * http://tools.oesf.biz/android-4.4.0_r1.0/xref/external/chromium_org/chrome/VERSION
  * KK MR3 Chrome M33
@@ -419,26 +421,25 @@ WebコンテンツとAndroidアプリの両方を作っている場合、Chrome 
 最後にChromeとAndroidの今後について、興味深い動き・考え方について話します。
 
 内容案：
+
 * Chrome Custom Tabs - 7
 
+* Intent and Remote Debugging - 3
+
 * Web App Manifest - 5
+ * Service Workers
+  * Push Notifications
+  * Background Sync
+  * こういう使い方もできるよー的な感じで
 
 * App Stream ※1 - 5
-
-* Service Workers - 5
- * Push Notifications
- * Background Sync
- * こういう使い方もできるよー的な感じで
-
-* Progressive Web Apps - 1 or 削る
+ * これまではGoogle Playに飛ばされてアプリをダウンロードしないといけなかった上に、起動直後に検索ワードに合致したコンテンツが出てくる訳では無かったので、ユーザー体験は雲泥の差
 
 * ChromeとAndroidの今後について(個人的主観) - 3
  * WebViewの変化
+ * Progressive Web Apps
 
-7 + 5 + 5 + 5 + 1 + 3 = 26
-
-Intentの話
-Remote Debugging
+7 + 3 + 5 + 5 + 3 = 23
 
 # Chrome Custom Tabs can replace the WebView?
 

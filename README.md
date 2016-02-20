@@ -4,6 +4,8 @@
 
 ### [2016 Android Dev Tools Knowledge](https://github.com/operando/DroidKaigi/tree/master/2016/android_dev_tools_knowledge)
 
+### [2016 ChromeとAndroidの 過去・現在・未来](https://github.com/operando/DroidKaigi/tree/master/2016/android_chrome)
+
 ## 質問・疑問・聞きたいことなどなどあれば[issue](https://github.com/operando/DroidKaigi/issues)に書いてください！
 
 * issue
