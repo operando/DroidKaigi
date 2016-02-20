@@ -332,7 +332,7 @@ http://insidesearch.blogspot.jp/2015/11/new-ways-to-find-and-stream-app-content.
 * App ad format that lets a user play a game for up to 60 seconds by streaming content from the app before downloading
 * http://2.bp.blogspot.com/-9v_0t2rKlzM/Vl-wzBxLs8I/AAAAAAAACGo/hU-Nndu-AIg/s1600/Trial%2BRun%2BAd%2Bgif%2Bfor%2BSGN.gif
 
-![](./images/Trial Run Ad gif for SGN.gif)
+<img src="./images/Trial Run Ad gif for SGN.gif" height="360" />
 
 ##  Introducing new interactive ads to drive app installs
 
