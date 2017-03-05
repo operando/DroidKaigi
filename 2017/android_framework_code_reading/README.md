@@ -1,6 +1,6 @@
 # できる！Android Framework Code Reading 👀
 
-＊＊不採択のセッションです＊＊
+**不採択のセッションです**
 
 ## 概要
 
