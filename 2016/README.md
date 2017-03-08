@@ -63,7 +63,7 @@ https://droidkaigi.github.io/2016/timetable.html#session-2016-02-19-16-30-17-00-
 ## 資料
 
 * [SlideShare](http://www.slideshare.net/shinobuokano7/chromeandroid-58461091)
-* [Github](https://github.com/operando/DroidKaigi/tree/master/2016/android_dev_tools_knowledge)
+* [Github](https://github.com/operando/DroidKaigi/tree/master/2016/android_chrome)
 
 
 ### 概要
