@@ -1,35 +1,16 @@
 # コマンドなしでぼくはAndroid開発できない話
 
+## 資料
+
+* [speakerdeck](https://speakerdeck.com/operando/komantonasitehokuhaandroidkai-fa-tekinaihua-1)
+* [Android-Command-Note](https://github.com/operando/Android-Command-Note)
+
+
 ## 概要
 
-```
-■対象者
-Android開発をする上で便利なコマンドを知りたい人
-Android開発をより効率的に行いたい人
-GUIよりコマンド(CUI)が好き人
+* Day2 Room4 15:10-
+* https://droidkaigi.github.io/2017/timetable.html#session-60
 
-■概要
-このセッションでは30分とにかくAndroidに関するコマンドの話をします。
-
-Android Studioでlogcatを見れたり、Android Monitorから色々見れたりしますが「それターミナルからコマンドで見れますよ」と言いたいわけです。
-コマンドを介せばさらに細かく端末の情報を確認することができます。
-コマンドから文字を入力したり、Backキーを押したりとコマンドを介して端末操作もできます。
-Intentの発行など人力で行うと面倒な作業もコマンドからなら楽にできます。
-色んなコマンドを知ることで、Androidの状態や仕組みを理解する機会にもなります。
-
-そんな「コマンドでAndroid開発を楽しみたい・効率的に開発したい！」というみなさまの熱い期待にお答えするセッションです。
-
-私が日々使用しているコマンドからいざって時に役立つかもしれないコマンド等、色んなコマンドをご紹介していきたいと思います。
-実際にコマンドを実行しながらどんなことができるものなのかを見ながら紹介していくものも用意する予定です。
-コマンドを知ることで、今まで以上に作業効率の向上、Android楽しさ・奥深さを知っていただけると嬉しいです。
-
-具体的には以下の様なものをメインで話す予定です。
-* adbコマンド
-* Androidのshellコマンド
-* adbを便利にするTool
-* Androidのコマンドを支える技術
-* コマンドを組み合わせたTips
-```
 
 ## 注意事項
 
