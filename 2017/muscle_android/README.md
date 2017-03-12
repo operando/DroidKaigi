@@ -447,7 +447,7 @@
 
 ## Android Studioで非推奨でるからちゃんと見る
 
-![](images/Android Studioで非推奨でるからちゃんと見る.png)
+![](images/Android Studio_deprecated.png)
 
 
 ## ドキュメントに「代わりにこれ使ってな！」と書いてある
