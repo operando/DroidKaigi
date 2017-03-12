@@ -12,7 +12,7 @@ https://droidkaigi.github.io/2017/timetable.html#session-24
 ## 資料
 
 * [speakerdeck](https://speakerdeck.com/operando/androidapurikai-fa-falseti-li-dukuri)
-* [Github](https://github.com/operando/DroidKaigi/tree/master/2017/muscle_android)
+* [文字起こし - Github](https://github.com/operando/DroidKaigi/tree/master/2017/muscle_android)
 
 
 ### 概要
@@ -64,7 +64,7 @@ https://droidkaigi.github.io/2017/timetable.html#session-60
 
 * [speakerdeck](https://speakerdeck.com/operando/komantonasitehokuhaandroidkai-fa-tekinaihua-1)
 * [Android-Command-Note](https://github.com/operando/Android-Command-Note)
-* [Github](https://github.com/operando/DroidKaigi/tree/master/2017/no_command_no_life)
+* [文字起こし - Github](https://github.com/operando/DroidKaigi/tree/master/2017/no_command_no_life)
 
 ### 概要
 
