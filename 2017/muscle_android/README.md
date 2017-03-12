@@ -3,7 +3,7 @@
 ## 資料
 
 * [speakerdeck](https://speakerdeck.com/operando/androidapurikai-fa-falseti-li-dukuri)
-
+* [私のAndroid RSSフィード](https://goo.gl/Zqg5RD)
 
 ## Android楽しいですかー？😊
 
