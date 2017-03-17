@@ -4,6 +4,7 @@
 
 * [speakerdeck](https://speakerdeck.com/operando/androidapurikai-fa-falseti-li-dukuri)
 * [私のAndroid RSSフィード](https://goo.gl/Zqg5RD)
+* [Slidoでいただいた質問への回答](https://github.com/operando/DroidKaigi/blob/master/2017/muscle_android/slido_question.md)
 
 ## Android楽しいですかー？😊
 
