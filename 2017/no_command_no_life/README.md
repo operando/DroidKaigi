@@ -233,7 +233,7 @@ http://tools.oesf.biz/android-7.1.1_r1.0/xref/frameworks/base/cmds/input/src/com
 * FragmentManagerの情報もdumpされる
 
 
-## adb shel dumpsys activity top
+## adb shell dumpsys activity top
 
 * 新しいプロジェクトや見知らぬコードを読む時に役立つ
 * この画面ってどのActivity? どのFragment? みたいなことを調べるのに最適
