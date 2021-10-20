@@ -1,4 +1,8 @@
-# できる！Android Framework Code Reading 
+# できる！Android Framework Code Reading
+
+## スライド
+
+- https://speakerdeck.com/operando/dekiru-android-framework-code-reading
 
 ## 概要
 
