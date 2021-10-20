@@ -22,8 +22,6 @@ Androidの内部構造を知ることで、アプリ開発に役立つことも�
 ・ コードを読んだ結果をうまくまとめる技術
 ```
 
-# できる！Android Framework Code Reading 
-
 ## このセッションのゴール
 
 - Android Frameworkのコードがなんとなく読めるようになる
