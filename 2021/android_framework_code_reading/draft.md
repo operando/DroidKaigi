@@ -1,29 +1,5 @@
 # できる！Android Framework Code Reading 
 
-## 概要
-
-```
-Androidの面白さはオープンソースでコードが公開されているので、Androidがどのように動いているのか？などをコードを読めば知れるところです。
-Androidの内部構造を知ることで、アプリ開発に役立つこともたくさんあります。
-
-しかし、コードが公開されているとはいえ、膨大な量のソースコードでAndroidは作られています。
-調べたい機能がどのように動いているのかを調べる際に、いきなり膨大な量のコードを読んでも挫折してしまうことがよくあります。
-
-本セッションでは、そもそも「Android Frameworkってなに？」というところから、実際にFrameworkのコードをどのように読んでいくかなどをお話します。
-具体的な内部構造の話よりも、「どのようにAndroid Frameworkのコードを読んで内部構造を調べるのか」をメインとして扱います。
-
-具体的には以下のような項目についてお話する予定です。
-・ Android Frameworkってなに？
-・ なぜAndroid Frameworkのコードを読むのか
-・ Android Framework Code Readingをする上で便利なサイト・ツールなどの紹介
-・ 読みたい目的のコードを探し出す技術
-・ Android Frameworkのコードを読む時に使える技術
-・ Android Frameworkでアプリ開発者が手軽に読めそうな部分の紹介
-・ コードを読んだ結果をうまくまとめる技術
-```
-
-# できる！Android Framework Code Reading 
-
 ## このセッションのゴール
 
 - Android Frameworkのコードがなんとなく読めるようになる
