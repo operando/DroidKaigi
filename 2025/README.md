@@ -499,9 +499,9 @@
 
 ### Permission
 
-![](images/1000001471.png)
-![](images/1000001472.png)
-![](images/1000001473.png)
+| image | image | image |
+|-------|-------|-------|
+| ![](images/1000001471.png) | ![](images/1000001472.png) | ![](images/1000001473.png) |
 
 
 ### Permissionのちょっと難しい点
