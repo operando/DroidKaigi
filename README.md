@@ -14,6 +14,8 @@
 
 ### [2021 Day3 できる！Android Framework Code Reading](https://github.com/operando/DroidKaigi/tree/master/2021/android_framework_code_reading)
 
+### [2025 Day1 未経験者・初心者に贈る！40分でわかるAndroidアプリ開発の今と大事なポイント](https://github.com/operando/DroidKaigi/tree/master/2025/)
+
 
 ## 質問・疑問・聞きたいことなどなどあれば[issue](https://github.com/operando/DroidKaigi/issues)に書いてください！
 
